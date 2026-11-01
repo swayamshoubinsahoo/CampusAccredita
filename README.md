@@ -1,6 +1,6 @@
 # CampusAccredita – Lab Safety & Compliance Auditor
 
-[![Live App](https://img.shields.io/badge/Demo-AWS%20PartyRock-FF9900?logo=amazon-aws)](https://partyrock.aws/u/swayamshoubin/8ga4yQLi-/CampusAccredita-Lab-Safety-and-Compliance-Auditor)
+[![Live App](https://partyrock.aws/u/swayamshoubin/Bga4yQLi-/CampusAccredita-Lab-Safety-and-Compliance-Auditor)
 [![Video Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/Pue-8vZKu1M)
 
 > An institutional lab compliance and safety auditor built on AWS PartyRock and Amazon Bedrock.
